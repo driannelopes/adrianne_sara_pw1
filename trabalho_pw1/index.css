@@ -1,0 +1,22 @@
+body{
+
+    background-image: url("dria.png");
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: 100%; /* Resize the background image to cover the entire container */
+    height: 800px;
+
+    color: rgb(24, 54, 80);
+}
+td{
+    text-align: center;
+}
+tr{
+    border: solid ;
+}
+.trabalho {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
